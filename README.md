@@ -1,6 +1,6 @@
 # Hi, I'm Mustafa 👋
 
-**Capital Markets | CFA Level I Candidate** — based in Istanbul.
+**Capital Markets | CFA Level I Candidate** based in Istanbul.
 
 I build financial models and equity research on BIST companies, and I use code to make that work faster and cleaner.
 
