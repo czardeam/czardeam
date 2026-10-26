@@ -1,15 +1,38 @@
-<h1 align="center">Hi , I'm Mustafa</h1>
-<h3 align="center">a passionate game developer and game design student working with Unity and C#.</h3>
+# Hi, I'm Mustafa 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/willtgaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="willtgaming" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mustafabalcı" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mustafabalc%c4%b1/" height="30" width="40" /></a>
-</p>
+**Capital Markets | CFA Level I Candidate** — based in Istanbul.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+I build financial models and equity research on BIST companies, and I use code to make that work faster and cleaner.
 
+### What I'm working on
 
+- 📊 **Equity research** — an initiation report on Brisa (BRISA), built on a full Excel model
+- 🤖 **Finmod** — a personal tool that automates data collection and model building for BIST companies
+- 🌐 **[mbalci.com](https://mbalci.com)** — my portfolio site for financial models and research *(coming soon)*
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=czardeam&show_icons=true&theme=radical)
+### Studying
+
+- CFA Level I — February 2027
+- CFI FMVA (Financial Modeling & Valuation Analyst)
+- SPK licensing exams (Capital Markets Board of Turkey)
+
+### Tools
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML/CSS/JS](https://img.shields.io/badge/HTML%2FCSS%2FJS-E34F26?style=flat&logo=html5&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
+
+### Background
+
+Digital Game Design graduate (İstanbul Aydın University). Game design and 3D modeling taught me systems thinking and visual communication — I now apply both to financial modeling, dashboards and research presentation.
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balcimustafa)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mustafabalcifin@gmail.com)
+
+---
+<sub>Research shared here is for educational purposes only and is not investment advice.</sub>
